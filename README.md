@@ -60,9 +60,3 @@ Forks must follow [TRADEMARK.md](TRADEMARK.md).
 ## License
 
 MIT (code only). The OpenLaut name and logo are not covered by the MIT License, see [TRADEMARK.md](TRADEMARK.md).
-
-## Like the Idea?
-
-I made this so everyone who may have a frustration like I did, it solved my problem, hopefully it solves yours. If you feel like I deserve a coffee, you can always https://buymeacoffee.com/takovic
-
-Cheers!
