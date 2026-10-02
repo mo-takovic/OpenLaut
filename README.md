@@ -33,7 +33,7 @@ Single Page Maker. Client briefs are almost always templates, but editing a prom
 
 ## How to Use
 
-Open `index.html` in Chrome, or use the hosted version at https://mo-takovic.github.io/OpenLaut/.
+Open `index.html` in Chrome, or use the hosted version at https://lautmedia.com/openlaut-web/
 
 Then open **Settings**, paste your OpenRouter API key, pick a model, and start chatting.
 
