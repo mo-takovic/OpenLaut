@@ -55,6 +55,7 @@ Forks must follow [TRADEMARK.md](TRADEMARK.md).
 
 ## Credits
 
+- Laut Media - https://lautmedia.com
 - Mo Takovic - Developer - https://takovic.com
 
 ## License
