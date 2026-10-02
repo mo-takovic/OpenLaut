@@ -1,4 +1,5 @@
 # OpenLaut by Laut Media
+![OpenLaut screenshot](screenshot.png)
 
 A dashboard for AI web designers, by AI web designers.
 
@@ -46,8 +47,6 @@ Chrome is recommended, because some browsers such as Safari may restrict or clea
 
 Use **Clear Everything** in Settings to remove all local data.
 
-This matches the wording in **Settings > General Information** inside the app.
-
 ## Contributing
 
 Issues and pull requests are welcome.
@@ -61,9 +60,3 @@ Forks must follow [TRADEMARK.md](TRADEMARK.md).
 ## License
 
 MIT (code only). The OpenLaut name and logo are not covered by the MIT License, see [TRADEMARK.md](TRADEMARK.md).
-
-## Screenshot
-
-![OpenLaut screenshot](screenshot.png)
-
-Add your `screenshot.png` file to this folder for the image above to render.
